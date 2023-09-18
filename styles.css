@@ -74,6 +74,7 @@ p {
 
 .categoryContainer {
     display: flex;
+    flex: 1;
     flex-direction: column;
     height: 70px;
     align-items: center;
